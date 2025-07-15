@@ -1,9 +1,25 @@
-# Connect4App
+# **Connect4App**
 
 A Connect 4 Game Console game built in C#. 
 
-The objective of the game is to to have 4 Os or Xs next to each. This can be vertically, horizontally or diagonally.
+## **Objective**:
++ The goal of the game is to to have 4 Os or Xs next to each. This can be vertically, horizontally or diagonally.
 
-Once the game is complete the winner will be annouced and the winning pattern will be in capitals. 
+## **Features**:
++ Two player turn based
++ Console based board rendering
++ Win detection in all directions
++ Winning pattern is highlighted in uppercase
++ Friendly end of game message
 
-Thank you for playing.
+## **How to Play**:
++ Players take turns in dropping their counter into a column
++ The game continues till either there is a winner or the board is full and ends as a draw
+
+## **End of Game**:
++ Winner is Announced or draw is stated
++ The winning pattern is highlighting
+
+ ## **Technologies Used**:
+ + C#
+ + .NET Console Application
